@@ -1,11 +1,9 @@
 import { useState } from 'react'
-import counter from './Components/Counter'
+import Counter from './Components/Containors/Counter'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
-
-  return (
+    return (
     <>
       <counter />
     </>

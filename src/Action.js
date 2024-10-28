@@ -1,7 +1,7 @@
 
 // action types
-export const INCREAMENT = "INCREAMENT"
-export const DECREAMENT = "DECREAMENT"
+export const INCREAMENT = "INCREAMENT";
+export const DECREAMENT = "DECREAMENT";
 
 // action creator functions
 
